@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as n,o as r}from"./index-DJn0bSXd.js";const a={},c={class:"flex min-h-screen items-center justify-center"};function o(f,e){return r(),s("main",c,[...e[0]||(e[0]=[n("h1",{class:"text-6xl font-thin text-slate-800"},"I'm Other Page",-1)])])}const l=t(a,[["render",o]]);export{l as default};

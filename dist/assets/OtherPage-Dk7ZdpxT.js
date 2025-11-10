@@ -1,0 +1,1 @@
+import{c,a as o,o as a}from"./index-fU3nA9t4.js";const f=(t,e)=>{const s=t.__vccOpts||t;for(const[n,r]of e)s[n]=r;return s},l={},_={class:"flex min-h-screen items-center justify-center"};function i(t,e){return a(),c("main",_,[...e[0]||(e[0]=[o("h1",{class:"text-6xl font-thin text-slate-800"},"I'm Other Page",-1)])])}const x=f(l,[["render",i]]);export{x as default};

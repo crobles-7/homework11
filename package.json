@@ -15,6 +15,7 @@
   "dependencies": {
     "@faker-js/faker": "^10.0.0",
     "@vueuse/firebase": "^14.0.0-alpha.0",
+    "axios": "^1.13.2",
     "firebase": "^12.3.0",
     "vue": "^3.2.37",
     "vue-router": "^4.1.5"
